@@ -1,7 +1,7 @@
 # CSE575_ML
 This code has used the SkillCraft data set from UCI Machine Learning Repository.
 
-The data has 3,395 instances and 20 attributes. Some basic feature analysis is done to:
+The data has 3,395 instances and 20 attributes. Some basic feature analysis is done to:<br/>
 • Plot the frequency histogram on ’GapBetweenPACs’ and ’ActionsInPAC’ attributes,
 respectively. [Histogram1.py]
 
